@@ -1,4 +1,4 @@
-# Favorite Web Extensions
+# Favorite Browser Extensions
 I leave you here with a list of chrome extensions I use in my favorite browser "Vivaldi" across all devices. I hope you find it useful, I would have begged to have many of this extensions some years ago.
 
 ![1695240588861](https://github.com/rgsaura/Favorite_Web_Extensions/assets/16281075/6f423adc-86d0-4ec0-90ff-4ccbee279f77)
